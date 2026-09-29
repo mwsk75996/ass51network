@@ -6,7 +6,7 @@ Dette repository indeholder de komplette Junos-konfigurationer til de tre SRX-ro
 - `r4-config.txt` – konfiguration til R4
 - `r5-config.txt` – konfiguration til R5
 
-Topologien er vist i [`topology.jpg`](topology.jpg) (Pers oprindelige diagram, som skal erstattes af egen HLD).
+Topologien er vist i [`ass51.svg`](ass51.svg) (HLD tilpasset vores setup; Pers oprindelige diagram ligger i `topology.jpg`).
 
 ## Hvad går konfigurationen ud på?
 
